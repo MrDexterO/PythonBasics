@@ -1,4 +1,4 @@
-# PythonBasics# Countdown Timer Application
+# Countdown Timer Application
 
 This is a Python-based Countdown Timer application created using `tkinter` for the graphical user interface (GUI) and `pygame` for sound playback. The app allows users to set a countdown timer, and once the time reaches zero, it triggers an alarm sound. Users can start, pause, resume, and reset the timer, and the GUI will reflect the current countdown status.
 
